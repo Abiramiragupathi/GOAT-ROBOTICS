@@ -1,6 +1,6 @@
 # GOAT-ROBOTICS
 
-##Q1)Grid Robots:
+Q1)Grid Robots:
 
 
 This program simulates a robot navigating through a grid, finding the shortest path from a starting point to an endpoint while avoiding obstacles. It uses the A algorithm*, a popular pathfinding method, to calculate the best route. The obstacles on the grid are randomly moving, adding a dynamic element to the navigation.
